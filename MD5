@@ -1,0 +1,11 @@
+3454fdf096a092661a4b7fff8bcd94c9 *DESCRIPTION
+8eb053d5395c063ac40109119a964f63 *NAMESPACE
+2434319940ccf1f8a1424d90d4a2248c *NEWS
+03274fbec510324d49d35830f04babea *R/check.R
+7f85d359d392dbe58969487aa60d3c40 *R/install.R
+c3a1febcc9d40da6514e61f4bcd87b61 *R/onLoad.R
+11e9587e867d0dea986c24fe935a6a00 *R/sqlparse_retic.R
+6f54d45c88c7a5f3e6cc88ed1e567dd7 *man/install_sqlparse_py.Rd
+adfcc9547b7d5ced11ab545a10e988af *man/sql_format.Rd
+d90658ac9a435e5430f9ab70ca8786b1 *man/sql_parse.Rd
+2d1cd692c42b1c1ab333d56fde10a178 *man/sql_split.Rd
